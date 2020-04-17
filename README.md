@@ -2,7 +2,7 @@
  FrontEnd da aplicação Nubank em sua versão WEB.
  
   ## Print do código em execução
- [![INSERT YOUR GRAPHIC HERE](https://ibb.co/WfxmYfc)]()
+ [![INSERT YOUR GRAPHIC HERE](https://i.ibb.co/kXHNWXh/nubank-meu.jpg)]()
  
  ## Desenvolvimento
  
