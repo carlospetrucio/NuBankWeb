@@ -1,5 +1,6 @@
 # NuBankWeb
  FrontEnd da aplicação Nubank em sua versão WEB.
+ Criado apenas para estudo das tecnologias envolvidas no desenvolvimento front end. (Sem funcionalidades)
  
   ## Print do código em execução
  [![INSERT YOUR GRAPHIC HERE](https://i.ibb.co/kXHNWXh/nubank-meu.jpg)]()
