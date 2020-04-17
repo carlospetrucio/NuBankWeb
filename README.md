@@ -3,8 +3,8 @@
  Criado apenas para estudo das tecnologias envolvidas no desenvolvimento front end. (Sem funcionalidades)
  
   ## Print do código em execução
- 
- > Login
+
+  > Login  
  [![INSERT YOUR GRAPHIC HERE](https://i.ibb.co/kXHNWXh/nubank-meu.jpg)]()
  
   > Home - autenticação via QRCODE
