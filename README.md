@@ -4,8 +4,11 @@
  ## Desenvolvimento
  
 > Bootstrap 4
+
 > MDB (Material Design Boostrap)
+
 > JQuery 3
+
 > Font-awesome 4.7
 
 
